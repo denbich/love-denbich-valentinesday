@@ -14,7 +14,7 @@
             <div class="col-lg-4">
                 <a href="{{ route('choosefood') }}" class="btn btn-lg uwu-button w-100 mt-3">Przejdź dalej UWU</a>
                 <audio controls="" autoplay="" loop="" id="uwuaudio" class="mx-auto d-block mt-3">
-                    <source src="http://love-denbich-valentinesday.test/assets/happy.mp3" type="audio/mpeg">
+                    <source src="/assets/happy.mp3" type="audio/mpeg">
                 </audio>
             </div>
         </div>

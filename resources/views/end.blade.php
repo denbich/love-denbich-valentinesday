@@ -14,7 +14,7 @@
 
             <div class="col-lg-4">
                 <audio controls="" autoplay="" loop="" id="uwuaudio" class="mx-auto d-block mt-3">
-                    <source src="http://love-denbich-valentinesday.test/assets/end.mp3" type="audio/mpeg">
+                    <source src="/assets/end.mp3" type="audio/mpeg">
                 </audio>
             </div>
         </div>
